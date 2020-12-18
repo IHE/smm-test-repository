@@ -1,0 +1,15 @@
+#
+#
+   
+
+confidentialityCode	urn:uuid:f4f85eac-e6cb-4883-b524-f2705394840f																											
+code	display	codingScheme	system	valueSet	valueSetIdentifier	deprecated	submitter	date	ref	comment	category																	
+L	low	2.16.840.1.113883.5.25	http://terminology.hl7.org/CodeSystem/v3-Confidentiality	2.16.840.1.113883.1.11.10228	http://hl7.org/fhir/ValueSet/v3-ConfidentialityClassification	no	Felhofer	2019.06.24	http://hl7.org/fhir/R4/valueset-security-labels.html		confidentiality																	
+M	moderate	2.16.840.1.113883.5.25	http://terminology.hl7.org/CodeSystem/v3-Confidentiality	2.16.840.1.113883.1.11.10228	http://hl7.org/fhir/ValueSet/v3-ConfidentialityClassification	no	Felhofer	2019.06.24	http://hl7.org/fhir/R4/valueset-security-labels.html		confidentiality																	
+N	normal	2.16.840.1.113883.5.25	http://terminology.hl7.org/CodeSystem/v3-Confidentiality	2.16.840.1.113883.1.11.10228	http://hl7.org/fhir/ValueSet/v3-ConfidentialityClassification	no	Felhofer	2019.06.24	http://hl7.org/fhir/R4/valueset-security-labels.html		confidentiality																	
+R	restricted	2.16.840.1.113883.5.25	http://terminology.hl7.org/CodeSystem/v3-Confidentiality	2.16.840.1.113883.1.11.10228	http://hl7.org/fhir/ValueSet/v3-ConfidentialityClassification	no	Felhofer	2019.06.24	http://hl7.org/fhir/R4/valueset-security-labels.html		confidentiality																	
+U	unrestricted	2.16.840.1.113883.5.25	http://terminology.hl7.org/CodeSystem/v3-Confidentiality	2.16.840.1.113883.1.11.10228	http://hl7.org/fhir/ValueSet/v3-ConfidentialityClassification	no	Felhofer	2019.06.24	http://hl7.org/fhir/R4/valueset-security-labels.html		confidentiality																	
+V	very restricted	2.16.840.1.113883.5.25	http://terminology.hl7.org/CodeSystem/v3-Confidentiality	2.16.840.1.113883.1.11.10228	http://hl7.org/fhir/ValueSet/v3-ConfidentialityClassification	no	Felhofer	2019.06.24	http://hl7.org/fhir/R4/valueset-security-labels.html		confidentiality																	
+#
+
+    

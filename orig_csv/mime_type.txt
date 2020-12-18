@@ -1,0 +1,13 @@
+mimeType																												
+code	ext	codingScheme	system	valueSet	valueSetIdentifier	deprecated	submitter	date	ref	comment	category																	
+application/pdf	pdf					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+text/xml	xml					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+application/x-hl7	hl7					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+application/dicom	dicom					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+application/dicom-kos	dicom-kos					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+text/plain	txt					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+multipart/related	mpr					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+image/tiff	tiff					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+image/jpeg	jpeg					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+image/gif	gif					no	bmajurski@gmail.com	2018.03.12			mimeType																	
+text/goofy	gfy					no	bmajurski@gmail.com	2018.03.12			mimeType																	
