@@ -41,7 +41,7 @@ check_args @ARGV;
 
 my ($input_file, $output_file) = @ARGV;
 
-my @lines = common::read_lines($input_file);
+my @lines = common::read_lines($input_file, 1);
 
 my ($codeName, $classScheme) = common::process_line_1(shift @lines);
 my %fields                   = common::process_line_2(shift @lines);

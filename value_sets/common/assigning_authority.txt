@@ -1,0 +1,5 @@
+assigningAuthority		http://connectathon.ihe/ValueSet/assigningAuthority			
+code	display	submitter	date	ref	comment
+&1.3.6.1.4.1.21367.13.20.1000&ISO	IHERED	felhofer.lynn@gmail.com	2018.03.12		
+&1.3.6.1.4.1.21367.13.20.2000&ISO	IHEGREEN	felhofer.lynn@gmail.com	2018.03.12		
+&1.3.6.1.4.1.21367.13.20.3000&ISO	IHEBLUE	felhofer.lynn@gmail.com	2018.03.12		
