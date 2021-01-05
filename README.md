@@ -3,7 +3,9 @@ The files and folders in this repository are the source material for value sets 
 
 ## Generating Output
 From this top level folder, execute:
+
 `perl scripts/master.pl [path]`
+
 where path is an optional argument that points to a root folder for output.  The script will use a default value of "." if no path is specified.
 
 The script reads each line of master.txt and produces output based on each line. A description of the contents and format of entries are included at the top of master.txt
